@@ -4,7 +4,9 @@
 ## About this Dataset
 
 Demographics of the employee (city, age, gender, education level)
+
 Tenure information (date of joining, last working date)
+
 Historical data regarding the performance of the employee (quarterly rating, monthly business acquired, designation, salary)
 
 ## Problem Statement:
